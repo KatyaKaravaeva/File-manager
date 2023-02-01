@@ -1,0 +1,14 @@
+C:\Users\kikin\Downloads\FileMenegerPG\FileMenegerPG\FileMenegerPG\bin\Debug\netcoreapp3.1\FileMenegerPG.exe
+C:\Users\kikin\Downloads\FileMenegerPG\FileMenegerPG\FileMenegerPG\bin\Debug\netcoreapp3.1\FileMenegerPG.deps.json
+C:\Users\kikin\Downloads\FileMenegerPG\FileMenegerPG\FileMenegerPG\bin\Debug\netcoreapp3.1\FileMenegerPG.runtimeconfig.json
+C:\Users\kikin\Downloads\FileMenegerPG\FileMenegerPG\FileMenegerPG\bin\Debug\netcoreapp3.1\FileMenegerPG.runtimeconfig.dev.json
+C:\Users\kikin\Downloads\FileMenegerPG\FileMenegerPG\FileMenegerPG\bin\Debug\netcoreapp3.1\FileMenegerPG.dll
+C:\Users\kikin\Downloads\FileMenegerPG\FileMenegerPG\FileMenegerPG\bin\Debug\netcoreapp3.1\FileMenegerPG.pdb
+C:\Users\kikin\Downloads\FileMenegerPG\FileMenegerPG\FileMenegerPG\obj\Debug\netcoreapp3.1\FileMenegerPG.csproj.AssemblyReference.cache
+C:\Users\kikin\Downloads\FileMenegerPG\FileMenegerPG\FileMenegerPG\obj\Debug\netcoreapp3.1\FileMenegerPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kikin\Downloads\FileMenegerPG\FileMenegerPG\FileMenegerPG\obj\Debug\netcoreapp3.1\FileMenegerPG.AssemblyInfoInputs.cache
+C:\Users\kikin\Downloads\FileMenegerPG\FileMenegerPG\FileMenegerPG\obj\Debug\netcoreapp3.1\FileMenegerPG.AssemblyInfo.cs
+C:\Users\kikin\Downloads\FileMenegerPG\FileMenegerPG\FileMenegerPG\obj\Debug\netcoreapp3.1\FileMenegerPG.csproj.CoreCompileInputs.cache
+C:\Users\kikin\Downloads\FileMenegerPG\FileMenegerPG\FileMenegerPG\obj\Debug\netcoreapp3.1\FileMenegerPG.dll
+C:\Users\kikin\Downloads\FileMenegerPG\FileMenegerPG\FileMenegerPG\obj\Debug\netcoreapp3.1\FileMenegerPG.pdb
+C:\Users\kikin\Downloads\FileMenegerPG\FileMenegerPG\FileMenegerPG\obj\Debug\netcoreapp3.1\FileMenegerPG.genruntimeconfig.cache

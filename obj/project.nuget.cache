@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4UcEpAy3ZX59fvGUFysGHw8pLJS7/2lKovP8lrPOy4ffT27sDKRL8nKb+rDECoOsEpXN59FaT+nVdfZnYtRA4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kikin\\Downloads\\FileMenegerPG\\FileMenegerPG\\FileMenegerPG\\FileMenegerPG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kikin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
